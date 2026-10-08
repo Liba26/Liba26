@@ -1,11 +1,10 @@
-## Hi there 👋
-I'm Liba Shasmeen
+## Hi there 👋 I'm Liba Shasmeen
 
 ### 🤖 AI/ML Enthusiast | 💻 Developer | 🚀 Curious Builder
 
-I'm an Artificial Intelligence & Machine Learning engineering student who enjoys turning ideas into things that actually work.
+I'm an **Artificial Intelligence & Machine Learning engineering student** who enjoys turning ideas into things that actually work.
 
-I love exploring the space where AI, software, and real-world problems meet — from intelligent systems to useful web applications.
+I love exploring the space where **AI, software, and real-world problems** meet — from intelligent systems to useful web applications.
 
 - 🎓 B.E. in Artificial Intelligence & Machine Learning
 - 🧠 Exploring Machine Learning, Deep Learning & Generative AI
@@ -15,7 +14,7 @@ I love exploring the space where AI, software, and real-world problems meet — 
 - 🌱 Currently strengthening my DSA, ML and software engineering skills
 - 🤝 Always open to learning, collaborating and building something meaningful
 
-> "Learn. Build. Break. Improve. Repeat." 🚀
+> **"Learn. Build. Break. Improve. Repeat." 🚀**
 
 ---
 
@@ -99,10 +98,7 @@ Debugging
 Improving
     ↓
 Building again 🚀
-
----
 ```
----
 
 ## 📊 GitHub Stats
 
@@ -110,9 +106,6 @@ Building again 🚀
   <img src="https://github-readme-stats.vercel.app/api?username=Liba26&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liba26&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
-
-
----
 
 ---
 
