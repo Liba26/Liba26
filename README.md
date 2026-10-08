@@ -101,6 +101,8 @@ Improving
 Building again 🚀
 
 ---
+```
+---
 
 ## 📊 GitHub Stats
 
@@ -108,3 +110,14 @@ Building again 🚀
   <img src="https://github-readme-stats.vercel.app/api?username=Liba26&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liba26&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+
+
+---
+
+---
+
+## 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-Liba26-181717?style=for-the-badge&logo=github)](https://github.com/Liba26)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/liba-shasmeen-ab70a9317/)
